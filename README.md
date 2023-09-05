@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hello, I'm [rong4ivy]
 
 Welcome to my GitHub profile, where I share my journey in the world of NLP, machine learning, and deep learning.
