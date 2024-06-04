@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile, where I share my journey in the world of NLP, machine learning, and deep learning.
 
-- 🎓 Master's in NLP (University of Stuttgart, Germany)
+- 🎓 Master Student in the instute of Natural Language Processing, University of Stuttgart, Germany
 
 ## 💼 Professional Experience
 
