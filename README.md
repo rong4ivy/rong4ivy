@@ -5,7 +5,7 @@
 
 ## 💼 Professional Experience
 
-- specialized in optimizing large language models (LLMs) to improve performance and tailor them to specific applications, assessing their effectiveness, and identifying areas for improvement.
+- Specialized in optimizing large language models (LLMs) to improve performance and tailor them to specific applications, assessing their effectiveness, and identifying areas for improvement.
 - Actively collaborating in research across NLP, psycholinguistics, and LLM fields, contributing to academic publications.
 ## 🚀 Key Skills
 
