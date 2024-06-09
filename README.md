@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm [rong4ivy]
 
 - 🎓 Master student at the Institute of Natural Language Processing, University of Stuttgart, Germany
--  Deeply engaged in advancing the frontiers of AI.
+-  Deeply engaged in advancing the frontiers of AI
 
 ## 💼 Professional Experience
 
@@ -16,9 +16,7 @@
 - **Machine Learning**: Adept at developing and deploying models across various applications.
 
   
-I'm always open to collaborations, discussions, and learning from others in the generative AI and NLP community.Thank you for visiting my GitHub profile—I look forward to connecting with fellow enthusiasts!
-ile, and I look forward to connecting with fellow NLP enthusiasts and machine learning practitioners!
-
+I'm always open to collaborations, discussions, and learning from others in the generative AI and NLP community.Thank you for visiting my GitHub profile. I look forward to connecting with fellow enthusiasts!
 🎉 Keep Coding and Stay Curious!
 
 # 💻 Tech Stack:
