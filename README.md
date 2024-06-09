@@ -15,9 +15,9 @@
 - **Deep Learning**: Proficient with PyTorch, focusing on building and training neural networks.
 - **Machine Learning**: Adept at developing and deploying models across various applications.
 
-I'm always open to collaborations, discussions, and learning from others in the generative AI and NLP community. Feel free to reach out to me.
-
-Thank you for visiting my GitHub profile, and I look forward to connecting with fellow NLP enthusiasts and machine learning practitioners!
+  
+I'm always open to collaborations, discussions, and learning from others in the generative AI and NLP community.Thank you for visiting my GitHub profile—I look forward to connecting with fellow enthusiasts!
+ile, and I look forward to connecting with fellow NLP enthusiasts and machine learning practitioners!
 
 🎉 Keep Coding and Stay Curious!
 
