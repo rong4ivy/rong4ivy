@@ -1,12 +1,12 @@
 ## 👋 Hello, I'm [rong4ivy]
 
-- 🎓 Master student at the Institute of Natural Language Processing, University of Stuttgart, Germany, deeply engaged in advancing the frontiers of AI.
+- 🎓 Master student at the Institute of Natural Language Processing, University of Stuttgart, Germany
+-  Deeply engaged in advancing the frontiers of AI.
 
 ## 💼 Professional Experience
 
-- Expert in enhancing the performance and specificity of large language models (LLMs), evaluating their effectiveness, and identifying areas for improvement
-- Collaborating with peers in NLP, psycholinguistics and LLM research, contributing to academic publications.
-
+- specialized in optimizing large language models (LLMs) to improve performance and tailor them to specific applications, assessing their effectiveness, and identifying areas for improvement.
+- Actively collaborating in research across NLP, psycholinguistics, and LLM fields, contributing to academic publications.
 ## 🚀 Key Skills
 
 - **Programming Languages**: Proficient in Python; intermediate in R and JavaScript.
