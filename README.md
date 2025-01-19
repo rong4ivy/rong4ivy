@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm [rong4ivy]
 
-- 🎓 Master of Science at the Institute of Natural Language Processing, University of Stuttgart, Germany
+- 🎓 Master of Science in NLP at the Institute of Natural Language Processing, University of Stuttgart, Germany
 - PhD in Zhejiang University, China
 -  Deeply engaged in advancing the frontiers of AI
 
